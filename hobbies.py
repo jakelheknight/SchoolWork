@@ -18,8 +18,8 @@ print("""
                         <div>
 
                             <!-- Nav tabs -->
-                            <ul class="nav nav-tabs" role="tablist">
-                                <li role="presentation"><a href="#Programming" aria-controls="home" role="tab" data-toggle="tab">Programming</a></li>
+                            <ul class="nav nav-pills" role="tablist">
+                                <li role="presentation" class="active"><a href="#Programming" aria-controls="home" role="tab" data-toggle="tab">Programming</a></li>
                                 <li role="presentation"><a href="#robotics" aria-controls="robotics" role="tab" data-toggle="tab">Robotics</a></li>
                                 <li role="presentation"><a href="#gaming" aria-controls="gaming" role="tab" data-toggle="tab">Gaming</a></li>
                                 <li role="presentation"><a href="#music" aria-controls="music" role="tab" data-toggle="tab">Music</a></li>

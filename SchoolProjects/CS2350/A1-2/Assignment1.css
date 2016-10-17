@@ -1,0 +1,21 @@
+body{
+    background-image: url("BinaryNStars.gif");
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100%;
+    font-family: sans-serif;
+    padding-bottom: 25%;
+}
+h1{
+    margin-top: 15%;
+}
+div{
+    margin: 0 5% 5% 5%;
+    text-align:center;
+    color:aliceblue;
+}
+.lft{
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
