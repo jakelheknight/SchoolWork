@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    color: #80c0c0;
+}
+a{
+    color:red;
+    background: yellow;
+    
+}
+a:visited{
+    color: #00ff00;
+}
+a:active{
+    color: #a05050;
+}
+.header{
+    font-family: "Times New Roman", Georgia, Serif, Courier; 
+    font-variant: small-caps;
+    background-color: blue;
+    border: thick dashed yellow;
+    text-align: center;
+}
+.advertisement{
+    color: red;
+    font-size: 2em;
+    border: 5pt solid red;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 25px 2px 25px 25px;
+    background-image: url("small-background.jpg"); 
+    background-color:grey;
+}
+.special{
+    background-color: purple;
+}
+.sponsor{
+    font-size: xx-large;
+    color: #808000;
+}
+ul li{
+    font-size: x-large;
+    font-style: italic;
+}
+h2 em{
+    font-weight: 500;
+}
+h2#pun{
+    color:white; /*This type of heading MUST be White and Large!*/
+    line-height: 50px;
+    font-size: 40px;   
+}
+#author{
+    padding: 20px;
+    border: 20px groove white;
+}
+#assignment{
+    font-family: 'comic sans ms', fantasy;
+}
+blockquote{
+    margin-left: 40px;
+    color: #00ff00;
+}
+h6{
+    background-color: red !important;
+    
+}
+h1, h2, blockquote{
+    background-color: #000080;
+}
+.pun::first-line{
+    font-weight: bold;
+    text-transform: capitalize;
+    background-color: aqua;
+    color: navy;
+}    
+h2.pun::first-letter{
+    font-size: 200%;
+    color: yellow;
+}

@@ -1,0 +1,18 @@
+/*
+  
+   Wildcat Computer Science Style Sheet for printer
+   Author: Jacob Knight
+   Date:   Sep 27, 2016
+
+   Filename:         print.css
+   Supporting Files: none
+
+*/
+
+
+/* Hiding unwanted content*/
+
+#nav #callout, #footer{
+    visibility: hidden;
+}
+
