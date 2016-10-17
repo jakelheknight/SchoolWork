@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox prefHeight="317.0" prefWidth="288.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="36.0" prefWidth="389.0" text="Encription GUI" textAlignment="CENTER" />
+            <Button alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#callFileChooser" prefHeight="52.0" prefWidth="308.0" text="Encript FIle" textAlignment="CENTER" />
+            <TextArea fx:id="en1" prefHeight="83.0" prefWidth="288.0">
+               <padding>
+                  <Insets bottom="10.0" />
+               </padding>
+            </TextArea>
+            <TextArea fx:id="en2" prefHeight="94.0" prefWidth="288.0" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
