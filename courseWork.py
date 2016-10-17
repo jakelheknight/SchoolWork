@@ -49,7 +49,28 @@ print("""
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>100 Factorial</td><td><a href="ScoolWork/CS1030/100Fac.py" download>100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                            </tr>
+                                            <tr>
+                                                <td>BillCalculator</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/BIllCalcuator.py" target="_blank">BillCalcuator.py</a></td><td>A symple program to calcuate Tax and Tip</td>
+                                            </tr>
+                                            <tr>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                            </tr>
+                                            <tr>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                            </tr>
+                                            <tr>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                            </tr>
+                                            <tr>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                            </tr>
+                                            <tr>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
+                                            </tr>
+                                            <tr>
+                                                <td>100 Factorial</td><td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/ScoolWork/CS1030/100Fac.py" target="_blank">100Fac.py</a></td><td>A symple program to calcuate 100 Factorial</td>
                                             </tr>
                                       </tbody>
                                   </table>
