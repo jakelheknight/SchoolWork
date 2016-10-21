@@ -33,7 +33,14 @@ body {
     color: #92897d;
 }
 
- {
+#footN a {
+	color: aliceblue;
+	
+}
+
+#footN td, #footN th{
+	border: none;
+	text-align: center;
 }
 
 .navbar a {

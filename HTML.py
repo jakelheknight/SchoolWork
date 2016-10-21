@@ -139,17 +139,17 @@ def getFoot():
                 <div class="col-xs-12 col-md-9">
                     <div class="col-md-1">
                     </div>
-                    <div class="col-md-11">
-                    <table class="table table-hover">
+                    <div class="col-md-10">
+                    <table id="footN" class="table">
                         <thead class="head-default">
                             
                         </thead>
                         <tbody>
                             <tr>
-                                <th><a href="index.py">Home Page</a></th>
-                                <th><a href="process.py">Process</a></th>
-                                <th><a href="projects.py">Project</a></th>
-                                <th><a href="hobbies.py">Hobbies</a></th>
+                                <th><a href="index.py"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home Page</a></th>
+                                <th><a href="process.py"><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Process</a></th>
+                                <th><a href="projects.py"><span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span> Project</a></th>
+                                <th><a href="hobbies.py"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> Hobbies</a></th>
                             </tr>
                             <tr>
                                 <td scope="row"><a href="#" data-toggle="modal" data-target=".modalContact"> Contact</a></td>
@@ -160,7 +160,7 @@ def getFoot():
                             <tr>
                                 <td scope="row"><a href="resume.py">Resume</a></td>
                                 <td><a href="process.py#demo">Demo</a></td>
-                                <td><a href="projects.py#knight">Knight Programming</a></td>
+                                <td><a href="projects.py#knight">Knight <br> Programming</a></td>
                                 <td><a href="hobbies.py#content">Music</a></td>
                             </tr>
                         </tbody>

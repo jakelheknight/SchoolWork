@@ -23,7 +23,6 @@ print("""
                                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
                             </ol>
-
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
@@ -49,7 +48,7 @@ print("""
                         </div>
                         <div>
                             <br>
-                            <p>As you have probably already guessed my name is Jacob Knight and I want to program your next solution for you. I am a hard working professional developer and first class problem solver. I got my first Bachelor's Degree in THeoretical Physics and am working on a second degree in Computer Science. I have been an industrial technician, physics teacher, mathematics programmer, program analyst and now your professional Solutions Expert.</p>
+                            <p>As you have probably already guessed my name is Jacob Knight and I want to program your next solution for you. I am a hard working professional developer and first class problem solver. I got my first Bachelor's Degree in Theoretical Physics and am working on a second degree in Computer Science. I have been an industrial technician, physics teacher, mathematics programmer, program analyst and now your professional Solutions Expert.</p>
                             <br>
                         </div>
                     </div>

@@ -40,8 +40,8 @@ print("""
                                             <div class="panel-heading">
                                                 <h2>1030 Intoro to Computer science</h2></div>
                                             <div class="panel-body">
-                                                <p>A first course in computer science. This course covers a broad range of topics from computer arcetecture and transisters to data storage and basic programming.</p>
-                                                <p>This class focused on Python3 programming so I will provide source code only since python is a scripted language and it is hard to package as an exicutable file.</p>
+                                                <p>A first course in computer science. This course covers a broad range of topics from computer architecture and transistor to data storage and basic programming.</p>
+                                                <p>This class focused on Python3 programming so I will provide source code only since python is a scripted language and it is hard to package as an executable file.</p>
                                             </div>
                                             <!-- Table -->
                                             <table class="table">
@@ -56,42 +56,42 @@ print("""
                                                     <tr>
                                                         <td>100 Factorial</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/100Fac.py" target="_blank">100Fac.py</a></td>
-                                                        <td>A symple program to calcuate 100 Factorial</td>
+                                                        <td>A program to calculate 100 Factorial</td>
                                                     </tr>
                                                     <tr>
                                                         <td>BillCalculator</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/BIllCalcuator.py" target="_blank">BillCalcuator.py</a></td>
-                                                        <td>A symple program to calcuate Tax and Tip</td>
+                                                        <td>A program to calculate Tax and Tip</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Grade Calculator</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/GradCalc.py" target="_blank">GradeCalc.py</a></td>
-                                                        <td>A symple program to calcuate grades</td>
+                                                        <td>A program to calculate grades</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Farinheight to Celsius</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/FarToCel3.py" target="_blank">FerToCel.py</a></td>
-                                                        <td>A symple program to convert form F to C and C to F</td>
+                                                        <td>A program to convert from F to C and C to F</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Pay Calculator</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/PayCalculator.py" target="_blank">PayCalculator.py</a></td>
-                                                        <td>A symple program to calcuate paychecks</td>
+                                                        <td>A program to calculate paychecks</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Pizza Price</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/PizzaPrice.py" target="_blank">PizzaPrice.py</a></td>
-                                                        <td>A symple program to calcuate Pizza cost</td>
+                                                        <td>A program to calculate Pizza cost</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Register</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/Register.py" target="_blank">Register.py</a></td>
-                                                        <td>A symple program to keep track of registration.</td>
+                                                        <td>A program to keep track of registration.</td>
                                                     </tr>
                                                     <tr>
                                                         <td>Final</td>
                                                         <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/Final.py" target="_blank">Final.py</a></td>
-                                                        <td>A symple program to keep track of car sales</td>
+                                                        <td>A program to keep track of car sales</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -104,7 +104,7 @@ print("""
                                                 <h2>1400 Programming I</h2>
                                                 <h3>Java Programming</h3></div>
                                             <div class="panel-body">
-                                                <p>A first course in programming. Mainly focused on Java. There was alot of fun stuff including introduction go GUI's</p>
+                                                <p>A first course in programming. Mainly focused on Java. There was a lot of fun stuff including introduction go GUI's</p>
                                             </div>
                                             <!-- Table -->
                                             <table class="table">
@@ -117,44 +117,7 @@ print("""
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td>100 Factorial</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/100Fac.py" target="_blank">100Fac.py</a></td>
-                                                        <td>A symple program to calcuate 100 Factorial</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>BillCalculator</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/BIllCalcuator.py" target="_blank">BillCalcuator.py</a></td>
-                                                        <td>A symple program to calcuate Tax and Tip</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Grade Calculator</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/GradCalc.py" target="_blank">GradeCalc.py</a></td>
-                                                        <td>A symple program to calcuate grades</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Farinheight to Celsius</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/FarToCel3.py" target="_blank">FerToCel.py</a></td>
-                                                        <td>A symple program to convert form F to C and C to F</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Pay Calculator</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/PayCalculator.py" target="_blank">PayCalculator.py</a></td>
-                                                        <td>A symple program to calcuate paychecks</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Pizza Price</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/PizzaPrice.py" target="_blank">PizzaPrice.py</a></td>
-                                                        <td>A symple program to calcuate Pizza cost</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Register</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/Register.py" target="_blank">Register.py</a></td>
-                                                        <td>A symple program to keep track of registration.</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Final</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/Final.py" target="_blank">Final.py</a></td>
-                                                        <td>A symple program to keep track of car sales</td>
+                                                        <td colspan="4">Coming Soon</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -164,59 +127,22 @@ print("""
                                         <div class="panel panel-default">
                                             <!-- Default panel contents -->
                                             <div class="panel-heading">
-                                                <h2>1410 Programming I</h2><h3>Object Orented Programming</h3></div>
+                                                <h2>1410 Programming I</h2><h3>Object Oriented Programming</h3></div>
                                             <div class="panel-body">
-                                                <p>An introduction to Object orented programming taught in C++.</p>
+                                                <p>An introduction to Object oriented programming taught in C++.</p>
                                             </div>
                                             <!-- Table -->
                                             <table class="table">
                                                 <thead>
                                                     <tr>
-                                                        <th>Assignemnt</th>
+                                                        <th>Exicutable</th>
                                                         <th>Source Code</th>
                                                         <th colspan="2">Description</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td>100 Factorial</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/100Fac.py" target="_blank">100Fac.py</a></td>
-                                                        <td>A symple program to calcuate 100 Factorial</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>BillCalculator</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/BIllCalcuator.py" target="_blank">BillCalcuator.py</a></td>
-                                                        <td>A symple program to calcuate Tax and Tip</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Grade Calculator</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/GradCalc.py" target="_blank">GradeCalc.py</a></td>
-                                                        <td>A symple program to calcuate grades</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Farinheight to Celsius</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/FarToCel3.py" target="_blank">FerToCel.py</a></td>
-                                                        <td>A symple program to convert form F to C and C to F</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Pay Calculator</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/PayCalculator.py" target="_blank">PayCalculator.py</a></td>
-                                                        <td>A symple program to calcuate paychecks</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Pizza Price</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/PizzaPrice.py" target="_blank">PizzaPrice.py</a></td>
-                                                        <td>A symple program to calcuate Pizza cost</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Register</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/Register.py" target="_blank">Register.py</a></td>
-                                                        <td>A symple program to keep track of registration.</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>Final</td>
-                                                        <td><a href="https://github.com/jakelheknight/SchoolWork/blob/master/SchoolProjects/CS1030/Final.py" target="_blank">Final.py</a></td>
-                                                        <td>A symple program to keep track of car sales</td>
+                                                        <td colspan="4">Coming soon</td>
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -228,7 +154,7 @@ print("""
                                             <div class="panel-heading">
                                                 <h2>2350 Web Programming</h2></div>
                                             <div class="panel-body">
-                                                <p>An introductory course in HTML CSS JavaScript and JQuery. Its this course I wrote this sight for.</p>
+                                                <p>An introductory course in HTML CSS JavaScript and JQuery. It's this course I wrote this site for.</p>
                                             </div>
                                             <!-- Table -->
                                             <table class="table">
